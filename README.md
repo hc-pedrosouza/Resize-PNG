@@ -43,7 +43,6 @@ Resize permite ao usuário diminuir de forma rápida o tamanho de imagens em uma
 
 ## Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o `Android Studio`. Para isso, na tela de launcher clique em:
 - Baixe o código do projeto [aqui](https://github.com/hc-pedrosouza/Resize-PNG/archive/refs/heads/main.zip)
 - Extraia o arquivo .zip
 - Abra a pasta extraída do projeto no seu CMD/Terminal
