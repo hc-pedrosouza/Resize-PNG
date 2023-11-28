@@ -1,0 +1,3 @@
+datetime
+pysimplegui==4.46.0
+Pillow==8.0.1
